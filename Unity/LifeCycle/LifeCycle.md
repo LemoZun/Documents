@@ -78,6 +78,8 @@
 ![](LifeCycle.png)
 
 ![](LifeCycleFlowChart.png)
+
+<br>
 [유니티 이벤트함수 실행 순서 ](https://docs.unity3d.com/kr/2021.3/Manual/ExecutionOrder.html)
 
 
